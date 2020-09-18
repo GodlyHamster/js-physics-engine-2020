@@ -1,3 +1,3 @@
-js-physics-engine-2020
+Links to exercises:
 
-een javascript physics engine met opbouw en voorbeelden
+13: http://28106.hosts2.ma-cloud.nl/bewijzenmap/Scripting/13myClock/
